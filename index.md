@@ -8,23 +8,24 @@ class: middle, center, black
 
 ## Thanks to
 
-# Microsoft
+# TwentyThree
 
 ## for hosting and snacks
 
 ---
 
+class: middle
+
+## .center[Agenda]
+
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 Automated dependency updates - Jamie Magee
+18:00 Why is my build times so long? - Kevin Simper
 18:25 Break with food and drinks
-19:00 Being a self-taught javascript developer
-and what have I learned - Abdulahili Mohamed
-19:25 Probability in TensorFlow.js - Chapter 1:
-A programmer's nightmare - Andreas Madsen
+19:00 JavaScript Quiz
+19:25 You?
 19:50 Group photo
-19:55 Raffle.js
 20:00 Socializing - meet the community
 21:00 See you next time!
 
@@ -43,11 +44,29 @@ developments that happens on the web.
 
 ---
 
-# A community around JavaScript
+name: centered
 
-# A place to share
+class: middle, center
 
-# A place to learn
+## About JavaScript
+
+## About Web
+
+## About community
+
+## About you
+
+---
+
+class: middle, center
+
+## Behind CopenhagenJS
+
+.left.avatar[![left-aligned image](kevin.jpeg)]
+.center.avatar[![center-aligned image](zoey.png)]
+.right.avatar[![right-aligned image](jonathan.png)]
+
+.footnote[:p Come and put your picture on]
 
 ---
 
@@ -57,7 +76,12 @@ class: black, middle, center
 
 ---
 
-## HTML5, CSS3, ES6, AMP HTML, AR/VR, React, Angular, Vuejs, E2E Testing, Typed Languages, Video, P2P, WebUSB, WebBluetooth, Hardware, Native, WebAssembly, PWA, SEO, ServiceWorker, WebPush, Chat Bots, Offline, NPM, Node.js, Blockchain, Privacy, Social, Databases, Suspense
+background-image: url(https://hackernoon.com/hn-images/1*raWO3dhM4jMjf9VY-kZzNg.png)
+
+--
+class: semi-transparent, middle, center
+
+## .linkblock[copenhagenjs.dk/speakers]
 
 ---
 
@@ -79,37 +103,49 @@ https://copenhagen.community
 
 ---
 
-class: yellow, middle, center
-
-# GraphQL Everywhere!!
-
-https://copenhagenjs.dk
-
----
-
-class: yellow, middle, center
-
-# CopenhagenJS GraphQl API
-
-https://graphql.copenhagenjs.dk/graphql
-
----
-
 class: middle, center
 
-# Videos on Youtube and Facebook
+## Past talks
 
----
+# copenhagenjs.dk/videos
 
-class: middle, center
-
-# Public speaking workshop
+.footnote[Find us also on Youtube and Facebook]
 
 ---
 
 class: middle, center, yellow
 
 ## Quiz and group photo in the end!
+
+---
+
+class: middle, center, blue
+
+## How can I help?
+
+---
+
+class: middle, center
+
+## Bring CopenhagenJS to your company
+
+.footnote[Find 'how to host' on copenhagenjs.dk/about]
+
+---
+
+class: middle, center
+
+## Send yourself to CopenhagenJS stage
+
+.footnote[Tell everyone what you are passionate about]
+
+---
+
+class: middle, center
+
+## Do whatever to make us cool
+
+.footnote[Good example can be we just converted our website using GraphQL]
 
 ---
 
@@ -121,20 +157,12 @@ class: middle, center, yellow
 
 class: middle, center, yellow
 
-# Raffle 🎲
-
----
-
-<div style="font-size: 28px;">So before we find out who's the winner, we do a small game such as this: each row of audience from left handside, tell the audience to his/her right a little about himself and a number as well. The number should be a number he received from the previous person add his own age, or only his own age if he's the first person. When the number passed to the rightmost person, this person should then tell the person behind him. The bottom right person should then have the sum total. Rule is try to be sincere about the age, but overall, the most closest number we got from the form is the winner</div>
-
-<img src="qr.png" style="width: 300px" />
-
-## http://bit.ly/cphjs-august
+# Quizz 🎲
 
 ---
 
 class: yellow, middle, center
 
-## Next meetup:
+## Next meetup
 
-# 22. August at Microsoft in Lyngby
+# Call for host and speakers
