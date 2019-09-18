@@ -70,6 +70,40 @@ class: middle, center
 
 ---
 
+class: blue, middle, center
+
+# Code of Conduct
+
+---
+
+class: middle, center
+
+## Short version
+
+# COMMON SENSE
+
+---
+
+class: middle, center
+
+## Medium version
+
+# Respect, Respect, Respect
+
+---
+
+class: middle
+
+## .center[Long version]
+
+#### CopenhagenJS aim to provide a harassment-free meetup experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of meetup participants in any form.
+
+#### Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. meetup participants violating these rules may be sanctioned or expelled from the meetup without a refund at the discretion of the meetup organisers.
+
+#### If you really want to be serious, find this on any human-friendly events, meetups, conferences, organizations, etc and read through.
+
+---
+
 class: black, middle, center
 
 # Where is the web now?
