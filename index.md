@@ -24,7 +24,7 @@ class: middle
 18:00 Why is my build times so long? - Kevin Simper
 18:25 Break with food and drinks
 19:00 JavaScript Quiz
-19:25 You?
+19:25 WebRTC streaming to large audiences - Vasil Dimitrov & Daniel Pouzemski
 19:50 Group photo
 20:00 Socializing - meet the community
 21:00 See you next time!
